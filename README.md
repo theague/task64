@@ -1,9 +1,10 @@
 # task64
 
-## Goals for this task
+Goals for this task
 - To practice JS Array Manipulation
 
-## The challenge
+The challenge
+
 1. Create an array named colors that contains five different names of colors as strings.
 2. Access the first color in the array and print it to the console using console.log()
 3. Now do the same with the third color in the list. (Remember that array indexes start at 0, not at 1!)
